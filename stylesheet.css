@@ -1,0 +1,114 @@
+:root {
+    --dark-blue: #131616;
+    
+    }
+    .container-fluid {
+    color: var(--dark-blue);
+    font-size: 20px;
+    font-weight: bold;
+    min-height: 100vh;
+    background-color: var(--yellow);
+    }
+   
+    .row {
+        border: 1px solid var(--dark-blue);
+        min-height: 50px;
+        
+        }
+
+    div[class^="col"] {
+        border: 1px solid var(--salmon);
+    }
+  
+    .tall{
+      min-height: 500px;
+    }
+
+    .h1 {
+        font-family: 'Creepster', cursive;
+        font-family: 'Nunito', sans-serif;
+    text-align: center;
+    color: black;
+    }
+
+    h2 {
+        font-family: 'Creepster', cursive;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+border-style: ridge;
+width: 23%;
+        margin: auto;
+    }
+
+    p{
+        word-spacing: 550px;
+        text-align: center;
+        font-family: 'Creepster', cursive;
+        font-family: 'Nunito', sans-serif;
+    }
+
+    .img1{
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: 190px;
+        left: 680px;
+    }
+    .img2{
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: 190px;
+        left: -10px;
+    }
+    .img3{
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: 190px;
+        left: 1400px;
+    }
+    .a{
+        position: absolute;
+        top: 580px;
+        left: 120px;
+    }
+    .b{
+        position: absolute;
+        top: 580px;
+        left: 880px;
+    }
+    .c{
+        position: absolute;
+        top: 580px;
+        left: 1550px;
+    }
+
+    h3 {
+        font-family: 'Creepster', cursive;
+    font-family: 'Nunito', sans-serif;
+border-style: ridge;
+width: 20%;
+text-align: center;
+margin: 900px;
+margin-top: 100px;
+position: absolute;
+top: 880px;
+left: -700px;
+
+    }
+
+    
+    h4 {
+        font-family: 'Creepster', cursive;
+    font-family: 'Nunito', sans-serif;
+border-style: ridge;
+width: 20%;
+text-align: center;
+margin: 900px;
+margin-top: 100px;
+position: absolute;
+top: 880px;
+left: 350px;
+
+    }
